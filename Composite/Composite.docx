@@ -1,0 +1,6 @@
+3.1) Para solucionar o problema abaixo pode-se ser utilizado o padrão Composite uma vez que podemos organizar 
+     as classes em uma estrutura de arvore, onde a classe Indivíduo é uma folha, Instituição o composite e congresso o Cliente.
+     Assim, uma classe de interface foi criada para a comunicação entre essas estruturas, compondo o padrão Composite.
+     IMPLEMENTAÇÃO EM ANEXO
+
+3.2) IMPLEMENTAÇÃO EM ANEXO
