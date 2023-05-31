@@ -34,15 +34,13 @@ To get started with this repository, follow these steps:
 
 1. Clone the repository to your local machine using the following command:
    ```
-   git clone https://github.com/your-username/java-language-study.git
+   git clone https://github.com/P81000/Oriented-Objects-Design.git
    ```
 
 2. Navigate to the cloned repository:
    ```
-   cd java-language-study
+   cd Oriented-Objects-Design
    ```
-
-3. Explore the different folders, such as `src`, `docs`, and `examples`, to find relevant resources and code samples.
 
 ## Contributing
 
