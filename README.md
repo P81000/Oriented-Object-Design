@@ -34,12 +34,12 @@ To get started with this repository, follow these steps:
 
 1. Clone the repository to your local machine using the following command:
    ```
-   git clone https://github.com/P81000/Oriented-Objects-Design.git
+   git clone https://github.com/P81000/Oriented-Object-Design.git
    ```
 
 2. Navigate to the cloned repository:
    ```
-   cd Oriented-Objects-Design
+   cd Oriented-Object-Design
    ```
 
 ## Contributing
