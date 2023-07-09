@@ -1,4 +1,5 @@
-import java.util.*;
+import java.util.ArrayList;
+import java.util.List;
 
 interface Participante {
     int getAssento();
@@ -50,14 +51,14 @@ class Congresso {
     }
 }
 class Main {
-  public static void main(String[] args) {
-      Congresso  congresso = new Congresso();
-      Individuo p1 = new Individuo();
-      Instituicao i1 = new Instituicao();
+    public static void main(String[] args) {
+        Congresso  congresso = new Congresso();
+        Individuo p1 = new Individuo();
+        Instituicao i1 = new Instituicao();
 
-      congresso.addParticipante(i1);
-      congresso.addParticipante(p1);
-      int total = congresso.totalParticipantes();
-      System.out.println(total);
-  }
+        congresso.addParticipante(i1);
+        congresso.addParticipante(p1);
+        int total = congresso.totalParticipantes();
+        System.out.println(total);
+    }
 }
